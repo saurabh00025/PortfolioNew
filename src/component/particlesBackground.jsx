@@ -47,10 +47,10 @@ const ParticlesBackground = () => {
                 },
                 particles: {
                     color: {
-                        value: "#500771cd", // Set particle color to white
+                        value: "#296909cd", // Set particle color to white
                     },
                     links: {
-                        color: "#b366d7cd", // Set the link color between particles
+                        color: "#4fc414cd", // Set the link color between particles
                         distance: 150, // Distance at which particles connect
                         enable: true, // Enable links
                         opacity: 0.5, // Set the opacity of links

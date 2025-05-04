@@ -3,7 +3,7 @@ import homeLogo from '../../assets/home-main.svg';
 import avatarImg from '../../assets/avatar.svg';
 import Typewriter from "typewriter-effect";
 import Tilt from "react-parallax-tilt";
-import About from "../About/about.jsx";
+import Skill from "../About/skill.jsx";
 import Projects from "../Project/project.jsx";
 import Resume from "../Resume/resume.jsx";
 import Contact from "../Contact/contact.jsx";
@@ -89,7 +89,7 @@ const Home = () => {
           </div>
         </div>
       </section>
-      <About/>
+      <Skill/>
       <Projects/>
       <Resume/>
       <Contact/>
